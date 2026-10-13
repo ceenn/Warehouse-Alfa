@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+pymongo[srv]>=4.6,<5
+python-dotenv>=1.0
+gunicorn>=22.0
+openpyxl>=3.1
+reportlab>=4.0
